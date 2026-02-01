@@ -57,6 +57,7 @@ h1 {
     display: flex;
     justify-content: flex-end;
     margin-top: 40px;
+    text-decoration: none;
 }
 
 .next-btn {
